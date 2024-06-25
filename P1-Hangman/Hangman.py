@@ -32,7 +32,7 @@ while not gameOver:
     guess = input("Chose a letter: ")
     guess = guess.lower()
     print()
-    os.system('cls')    # clear the console/terminal
+    os.system('cls')    # clear the console/terminal (FOR WINDOWS)
     
     if guess in guessList:
         print(f"You already guessed {guess}")
