@@ -1,2 +1,2 @@
-# Python-Projects
- My mini Python projects showcase
+# Project 1: Hangman Game
+ Simple Hangman Game 
